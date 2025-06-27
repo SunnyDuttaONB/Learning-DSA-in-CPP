@@ -1,0 +1,36 @@
+How to Solve a Problem?
+1) Understand
+2) Input 
+3) Solution
+4) Code
+
+Flowchart:- Diagram of a Solution
+Eg) Print the Sum of two Numbers;
+Start -> Input a & b -> Sum = a + b -> Print Sum -> Exit
+
+1) Area of a Square:-
+Start -> Input a -> area a*a -> Print area -> Exit
+
+2) Min of 2 Numbers:-
+Start -> Input a & b -> if (a<b) print a -> else print b -> Exit
+
+3) Is Number Odd or Even:-
+Start -> Input n -> if (n%2==0) print Even -> else print Odd -> Exit
+
+4) Sum of Numbers from 1 to n:-
+Start -> Input n -> count = 1 , sum = 0 -> while(count<=n){{sum = sum + count }count = count + 1} -> Print sum -> Exit
+
+5) Is Number Prime or not:-
+Start -> Input n -> i = 2 -> while(i<=(n-1)){{{if(n % i == 0)}Print Non-Prime}Exit} else{i+=1} -> Print Prime ->Exit
+
+6) Calculate Simple Interest from Principal(P),Rate(R) & Time(T):-
+Start -> Input p,r,t,simpI-> simpI = (p*r*t)/100 -> print simpI -> Exit
+
+7) Calculate Max of two Numbers:-
+Start -> Input a & b -> if(a > b) print a -> else print b -> Exit
+
+8) Calculate Factorial of a Number:-
+Start -> Input n -> fact = 1 , i = 1 -> while(i<=n){{fact = fact * i} i = i + 1} -> End while -> Print fact -> Exit
+
+9) Given a Person's age, find if they should get a driving licence or not.
+Start -> Input age -> if(n >= 18) print "Can get Driving Licence" -> else print "Cannot get Driving Licence" -> Exit
